@@ -1,0 +1,6 @@
+@DAYMSolutions_HostAddress = http://localhost:5068
+
+GET {{DAYMSolutions_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
